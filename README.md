@@ -2,7 +2,7 @@
 
 This was a project for the course Generative AI WiSe'25 at Saarland University. This project focused on making LLMs for example GPT-4o-mini and Phi-3-mini usable in the educational settings where these models could be used as AI Tutors for students, say, learning to program. How this would work is that an LLM would analyze a buggy code written by a student and generate the repairs for that program that best align with the student's code and generate relevant and concise hints for the student to ponder upon. 
 
-I worked with the INTROPYNUS dataset and applied prompt engineering techniques such as Zero-shot Chain of Thought and supervised finetuning with LoRA to improve the models outputs.
+Worked with the INTROPYNUS dataset and applied prompt engineering techniques such as Zero-shot Chain of Thought and supervised finetuning with LoRA to improve the models outputs.
 
 ## Metrics
 Quality metrics for program repair: RPass (binary) examines whether the repaired program
